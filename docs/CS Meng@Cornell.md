@@ -3,6 +3,7 @@
 ## 代表性dp
 【22fall】SJTU 密院dd 两篇顶会二作在投 两段实习 录取
 ## 网申备注
+支持通过Interfolio Dossier提交推荐信
 
 ## 项目特点
 class size小，一年项目，可以延期
